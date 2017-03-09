@@ -1,0 +1,7 @@
+author: "Tobe O <thosakwe@gmail.com>"
+description: "Import non-Dart files in Dart code."
+homepage: "https://github.com/thosakwe/dart_loader.git"
+name: "loader"
+version: "0.0.0"
+dependencies: 
+  build: "^0.7.2"
